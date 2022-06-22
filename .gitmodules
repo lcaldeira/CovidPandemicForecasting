@@ -1,0 +1,3 @@
+[submodule "GrafoBrasilCovid"]
+	path = GrafoBrasilCovid
+	url = https://github.com/lcaldeira/GrafoBrasilCovid
